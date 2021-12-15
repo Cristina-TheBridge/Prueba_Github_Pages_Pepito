@@ -1,5 +1,6 @@
 # PEPITO PEREZ
 
+<img src="img/pepito.png">
 ## ABOUT
 
 Habla un poco de tí
