@@ -14,11 +14,13 @@ LinkedIn: [pepitoperez](www.linkedin.es)
 ## PROYECTS
 
 ### DATA ANALYSIS
-  * Análisis de las ventas de móviles en el 2020 <br>
+  * [Análisis de las ventas de móviles en el 2020](https://github.com/Cristina-TheBridge/Prueba_Github_Pages_Rellena)  <br>
   Breve descripcion del proyecto
+  <img src="img/graph.png">
 
 ### MACHINE LEARNING
-  * Modelo de Machine Learning para la detección de COVID en radiografías pulmonares <br>
+  * [Modelo de Machine Learning para la detección de COVID en radiografías pulmonares](https://github.com/Cristina-TheBridge/Prueba_Github_Pages_Rellena) <br>
   Breve descripcion del proyecto
+  <img src="img/covid.jpg">
 
 
